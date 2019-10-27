@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="inner_frame_layout_padding">5dp</dimen>
+    <dimen name="margin_about_title">56dp</dimen>
+    <dimen name="margin_left_common">24dp</dimen>
+    <dimen name="register_title_size">24sp</dimen>
+    <dimen name="margin_above_btn">26dp</dimen>
+    <dimen name="btn_padding">1.5dp</dimen>
+    <dimen name="letter_spacing">1dp</dimen>
+    <dimen name="padding_side">6dp</dimen>
+    <dimen name="splash_image">500dip</dimen>
+    <dimen name="cardElevation">4dp</dimen>
+    <dimen name="cardRadius">20dp</dimen>
+    <dimen name="margin">8dp</dimen>
+</resources>

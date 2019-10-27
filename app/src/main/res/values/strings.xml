@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ShadiWear</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register_text">register</string>
+    <string name="login_text">login</string>
+    <string name="create_account">create account</string>
+    <string name="city">City</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="whatsapp_number">Whatsapp number</string>
+    <string name="address">Address</string>
+    <string name="state">State</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
